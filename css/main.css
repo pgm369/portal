@@ -3,7 +3,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
 
 html {
-    background-color: lightgray;
+    background-color: #ebefe3;
     font-family: 'Poppins', sans-serif;
     font-size: 0.95em;
     line-height: 1.5em;
@@ -41,13 +41,13 @@ h2,h3 {
 }
 
 a {
-    color:darkcyan;
+    color:#7bb46f;
     text-decoration: none;
 }
 
 a:hover {
     color: whitesmoke;
-    background-color: darkcyan;
+    background-color: #e1d9d1;
     text-decoration: none;
 }
 
