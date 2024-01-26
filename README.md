@@ -1,5 +1,5 @@
-# portal
+# Priscila Garcia-Mendoza's Portfolio!
 
-This repo creates a page on which I store my web projects
+This repo creates a page that stores my web projects!
 
 
